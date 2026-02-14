@@ -76,7 +76,17 @@ export default function Home() {
       {/* NAVBAR */}
       <header className="fixed w-full top-0 z-50 bg-white shadow-sm">
         <div className="max-w-7xl mx-auto flex justify-between items-center px-6 py-4">
-          <h1 className="text-2xl font-bold">TentWala</h1>
+          
+<div className="flex items-center space-x-3">
+  <img
+    src="/logo.png"
+    alt="TentWala Logo"
+    className="h-10 w-auto"
+  />
+  <span className="text-2xl font-bold hidden sm:block">
+    TentWala
+  </span>
+</div>
 
           <div className="space-x-8 hidden md:block">
             <a href="#services">Services</a>
