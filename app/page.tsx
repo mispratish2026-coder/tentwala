@@ -79,7 +79,7 @@ export default function Home() {
           
 <div className="flex items-center">
   <img
-    src="/logo.png"
+    src="/44logo.png"
     alt="TentWala Logo"
     className="h-32 w-auto"
   />
