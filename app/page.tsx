@@ -77,15 +77,12 @@ export default function Home() {
       <header className="fixed w-full top-0 z-50 bg-white shadow-sm">
         <div className="max-w-7xl mx-auto flex justify-between items-center px-6 py-4">
           
-<div className="flex items-center space-x-3">
+<div className="flex items-center">
   <img
     src="/logo.png"
     alt="TentWala Logo"
-    className="h-10 w-auto"
+    className="h-32 w-auto"
   />
-  <span className="text-2xl font-bold hidden sm:block">
-    TentWala
-  </span>
 </div>
 
           <div className="space-x-8 hidden md:block">
