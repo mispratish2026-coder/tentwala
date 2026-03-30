@@ -119,7 +119,7 @@ export default function Home() {
           className="absolute inset-0 bg-cover bg-center"
           style={{
             backgroundImage:
-              "https://img.freepik.com/free-photo/hands-indian-br…er-making-authentic-wedding-ritual_8353-10047.jpg",
+              "https://png.pngtree.com/thumb_back/fh260/background/20250512/pngtree-royal-indian-wedding-couple-image_17272717.jpg",
           }}
         ></div>
 
