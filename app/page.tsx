@@ -119,7 +119,7 @@ export default function Home() {
           className="absolute inset-0 bg-cover bg-center"
           style={{
             backgroundImage:
-              "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGHWy_T2MJppp8EXnf9fUqPiyPYn_TIvepg&s')",
+              "https://unsplash.com/s/photos/indian-wedding",
           }}
         ></div>
 
@@ -159,8 +159,8 @@ export default function Home() {
             <p>Happy Clients</p>
           </div>
           <div>
-            <h2 className="text-4xl font-bold">3+</h2>
-            <p>Years Experience</p>
+            <h2 className="text-4xl font-bold">10+</h2>
+            <p>Average vendors Experience</p>
           </div>
         </div>
       </section>
@@ -271,9 +271,9 @@ At Tentwala, we don’t just connect services — we help create memorable occas
             <h3 className="text-2xl mb-4">TentWala</h3>
             <p className="text-gray-400">
              
-              Contact no - +91-8240781558<br>
+              Contact no - +91-8240335904<br>
               </br>
-              email -info@tentwala.com
+              email -tentwala101@gmail.com
             
             </p>
           </div>
