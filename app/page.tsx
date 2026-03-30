@@ -119,7 +119,7 @@ export default function Home() {
           className="absolute inset-0 bg-cover bg-center"
           style={{
             backgroundImage:
-              "https://unsplash.com/s/photos/indian-weddinghttps://images.unsplash.com/photo-1587271636175-90d58cdad458?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuJTIwd2VkZGluZ3xlbnwwfHwwfHx8MA%3D%3Dhttps://img.freepik.com/free-photo/hands-indian-bride-groom-intertwined-together-making-authentic-wedding-ritual_8353-10047.jpg",
+              "https://unsplash.com/s/photos/indian-weddinghttps://images.unsplash.com/photo-1587271636175-90d58cdad458?fm=jpg&q=60https://www.freepik.com/photos/indian-wedding&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuJTIwd2VkZGluZ3xlbnwwfHwwfHx8MA%3D%3Dhttps://img.freepik.com/free-photo/hands-indian-bride-groom-intertwined-together-making-authentic-wedding-ritual_8353-10047.jpg",
           }}
         ></div>
 
